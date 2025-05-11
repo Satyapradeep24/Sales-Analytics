@@ -7,10 +7,10 @@ Repository Structure:
   2. [migrations](https://github.com/Satyapradeep24/Sales-Analytics/tree/main/migrations)
 
 Technologies Used
-  -> SQL
-  -> Python
-  -> Power BI
-  -> Excel
+  1. SQL
+  2. Python
+  3. Power BI
+  4. Excel
 
 ER Diagram
 ![png type of the ER Diagram](https://github.com/Satyapradeep24/Sales-Analytics/blob/main/migrations/er_diagram.png)
